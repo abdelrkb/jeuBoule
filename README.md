@@ -1,4 +1,4 @@
-# jeuBoule
+# BallGame
 
 Ball game is a project I had to code for school, it consists of a game with 2 players that place a ball on the board.
 Whenre you place a ball you gain surface on the board, the player who has the most surface at the end of the game wins !
